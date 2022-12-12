@@ -29,7 +29,7 @@ namespace CS_ScriptRunner
             "Custom/Buildings/Building/NoBase",
             "Custom/Buildings/Building/Floating",
             "Custom/Props/Prop/Default",
-            "Custom/Props/Prop/Fence",
+            "Custom/Props/Prop/Fence"
         };
 
         public bool deleteLOD = true;
